@@ -1,0 +1,17 @@
+Transcript,Summary,Sentiment,Timestamp
+"Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: Sorry to hear that. Could you please share your booking ID?
+Customer: It's 12345.
+Agent: Thanks, I can see a declined transaction. I'll re-trigger the payment link.",The customer was unable to complete a booking due to a failed payment. The customer support agent assisted by re-triggering the payment link to allow the customer to complete the transaction. This resolved the issue and allowed the customer to proceed with their booking.,Neutral,2025-09-16 15:56:22 UTC
+"Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: Sorry to hear that. Could you please share your booking ID?
+Customer: It's 12345.
+Agent: Thanks, I can see a declined transaction. I'll re-trigger the payment link.","The customer was unable to book a slot due to a failed payment, and they provided their booking ID (12345) to the agent. The agent investigated the issue and found a declined transaction. The agent resolved the problem by re-triggering the payment link for the customer.",Neutral,2025-09-16 16:00:57 UTC
+"Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: Sorry to hear that. Could you please share your booking ID?
+Customer: It's 12345.
+Agent: Thanks, I can see a declined transaction. I'll re-trigger the payment link.",The customer was unable to book a slot due to a failed payment. The customer support agent assisted by retrieving the booking ID and re-triggering the payment link to resolve the issue. This allowed the customer to potentially complete the booking.,Neutral,2025-09-16 16:04:37 UTC
+"Customer: Hi, I was trying to book a slot yesterday but the payment failed.
+Agent: Sorry to hear that. Could you please share your booking ID?
+Customer: It's 12345.
+Agent: Thanks, I can see a declined transaction. I'll re-trigger the payment link.",The customer was unable to book a slot due to a failed payment. The customer support agent assisted by retrieving the booking ID and re-triggering the payment link to resolve the issue.,Neutral,2025-09-16 16:05:05 UTC
